@@ -32,8 +32,8 @@ def get_second_least_common_element(lst):
       second_least_item = e
 
   # uncomment following line to test
-  print count, second_least_item, second_least_item_count
+#  print count, second_least_item, second_least_item_count
   return second_least_item
 
 # to test: uncomment following line
-get_second_least_common_element([4, 3, 4, 4, 4, 8, 7, 7, 8, 8])
+# get_second_least_common_element([4, 3, 4, 4, 4, 8, 7, 7, 8, 8])
